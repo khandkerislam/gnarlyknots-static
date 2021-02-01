@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Gnarly Knots</title>
-	<atom:link href="http://khandkerislam.github.io/gnarlyknots-static/feed/" rel="self" type="application/rss+xml" />
-	<link>http://khandkerislam.github.io/gnarlyknots-static/</link>
+	<atom:link href="https://khandkerislam.github.io/gnarlyknots-static/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khandkerislam.github.io/gnarlyknots-static/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 31 Jan 2021 17:47:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://khandkerislam.github.io/gnarlyknots-static/2021/01/31/hello-world/</link>
-					<comments>http://khandkerislam.github.io/gnarlyknots-static/2021/01/31/hello-world/#comments</comments>
+		<link>https://khandkerislam.github.io/gnarlyknots-static/2021/01/31/hello-world/</link>
+					<comments>https://khandkerislam.github.io/gnarlyknots-static/2021/01/31/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[test]]></dc:creator>
 		<pubDate>Sun, 31 Jan 2021 17:47:49 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://khandkerislam.github.io/gnarlyknots-static/?p=1</guid>
+		<guid isPermaLink="false">https://khandkerislam.github.io/gnarlyknots-static/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://khandkerislam.github.io/gnarlyknots-static/2021/01/31/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://khandkerislam.github.io/gnarlyknots-static/2021/01/31/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
