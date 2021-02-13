@@ -4,11 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Gnarly Knots &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/css/dashicons.min.css?ver=5.6' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/css/buttons.min.css?ver=5.6' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/css/forms.min.css?ver=5.6' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/css/l10n.min.css?ver=5.6' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/css/login.min.css?ver=5.6' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/css/dashicons.min.css?ver=5.6.1' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/css/buttons.min.css?ver=5.6.1' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/css/forms.min.css?ver=5.6.1' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/css/l10n.min.css?ver=5.6.1' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/css/login.min.css?ver=5.6.1' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -63,7 +63,7 @@ var _zxcvbnSettings = {"src":"https:\/\/khandkerislam.github.io\/gnarlyknots-sta
 <script id='wp-polyfill-js-after'>
 ( 'fetch' in window ) || document.write( '<script src="https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
 </script>
-<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/i18n.min.js?ver=326fe7fbfdb407b6edbcfba7e17f3909' id='wp-i18n-js'></script>
+<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/dist/i18n.min.js?ver=ac389435e7fd4ded01cf603f3aaba6a6' id='wp-i18n-js'></script>
 <script id='password-strength-meter-js-extra'>
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 </script>
@@ -74,12 +74,12 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/js/password-strength-meter.min.js?ver=5.6' id='password-strength-meter-js'></script>
+<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/js/password-strength-meter.min.js?ver=5.6.1' id='password-strength-meter-js'></script>
 <script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
 <script id='wp-util-js-extra'>
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/wp-util.min.js?ver=5.6' id='wp-util-js'></script>
+<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/wp-util.min.js?ver=5.6.1' id='wp-util-js'></script>
 <script id='user-profile-js-translations'>
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
@@ -87,7 +87,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/js/user-profile.min.js?ver=5.6' id='user-profile-js'></script>
+<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-admin/js/user-profile.min.js?ver=5.6.1' id='user-profile-js'></script>
 	<div class="clear"></div>
 	</body>
 	</html>
