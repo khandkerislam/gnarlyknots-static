@@ -2,7 +2,7 @@
 	<html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; Gnarly Knots &#8212; WordPress</title>
+	<title>Log In &lsaquo; gnarly-knots &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/css/dashicons.min.css?ver=5.6.2' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/css/buttons.min.css?ver=5.6.2' media='all' />
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="https://khandkerislam.github.io/gnarlyknots-static/">
-		&larr; Go to Gnarly Knots		</a></p>
+		&larr; Go to gnarly-knots		</a></p>
 			</div>
 	<script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
 <script src='https://khandkerislam.github.io/gnarlyknots-static/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>

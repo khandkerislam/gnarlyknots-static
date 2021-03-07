@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for gnarly-knots	</title>
-	<atom:link href="https://khandkerislam.github.io/gnarlyknots-static/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://khandkerislam.github.io/gnarlyknots-static/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://khandkerislam.github.io/gnarlyknots-static/2021/03/06/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://khandkerislam.github.io/gnarlyknots-static/2021/03/06/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 06 Mar 2021 23:50:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://khandkerislam.github.io/gnarlyknots-static/2021/03/06/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
